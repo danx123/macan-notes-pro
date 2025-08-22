@@ -1,7 +1,7 @@
 # 📝 Macan Notes Pro
 
 Macan Notes Pro is a modern note-taking app based on PyQt6, designed for a fast, clean, flexible, and professional writing experience.
-Now available with font customization and syntax highlighting for Python in version 2.0.0.
+Now available with font customization and syntax highlighting for Python in version 2.5.0.
 
 > "Write smarter. Stay organized." ✨
 
@@ -20,18 +20,19 @@ Now available with font customization and syntax highlighting for Python in vers
 ---
 
 ## 📸 Screenshot
-<img width="547" height="650" alt="image" src="https://github.com/user-attachments/assets/866ce705-16bb-4411-a280-6a44ab97d914" />
+<img width="797" height="603" alt="image" src="https://github.com/user-attachments/assets/d67d08af-6dba-446a-a61e-3f23f2a8f0fd" />
+
 
 ---
 
-## 🆕 Changelog v2.0.0 (2025-08-21)
-### Added
-- **Font Menu** — users can adjust the font and text size to their preference.
-- **Syntax Highlighting for Python** — opening a `.py` file now displays colors based on the code structure.
+## 🆕 Changelog v2.5.0 (2025-08-22)
+* Session Restoration: The application now remembers all your open tabs (both saved and unsaved) and restores them automatically the next time you open it.
 
-### Improved
-- Multi-tab & autosave stability.
-- Performance optimizations when opening large files.
+* Window State Saving: It will remember its last size and position on the screen, so you don't have to resize or move it every time.
+
+* Last Used Directory: The "Open" and "Save As" dialogs will now start in the last folder you used, making file access quicker.
+
+* Single Instance Mode: Opening a file from your file explorer will now open it in a new tab within the already running application, instead of launching a completely new window.
 
 ---
 
