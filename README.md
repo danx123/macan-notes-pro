@@ -20,19 +20,14 @@ Now available with font customization and syntax highlighting for Python in vers
 ---
 
 ## 📸 Screenshot
-<img width="797" height="603" alt="image" src="https://github.com/user-attachments/assets/d67d08af-6dba-446a-a61e-3f23f2a8f0fd" />
+<img width="803" height="607" alt="image" src="https://github.com/user-attachments/assets/2f96a75e-22e2-4f8a-87c3-1872b3ab533b" />
+
 
 
 ---
 
-## 🆕 Changelog v2.5.0 (2025-08-22)
-* Session Restoration: The application now remembers all your open tabs (both saved and unsaved) and restores them automatically the next time you open it.
-
-* Window State Saving: It will remember its last size and position on the screen, so you don't have to resize or move it every time.
-
-* Last Used Directory: The "Open" and "Save As" dialogs will now start in the last folder you used, making file access quicker.
-
-* Single Instance Mode: Opening a file from your file explorer will now open it in a new tab within the already running application, instead of launching a completely new window.
+## 🆕 Changelog v2.5.0 (2025-08-25)
+* Rewrite Engine
 
 ---
 
