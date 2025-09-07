@@ -20,27 +20,21 @@ Now available with font customization and syntax highlighting for Python
 ---
 
 ## 📸 Screenshot
-<img width="798" height="602" alt="Screenshot 2025-08-30 010211" src="https://github.com/user-attachments/assets/f8a6fea1-8b86-4864-8bd1-3e1c5f2fb88d" />
-
-
+<img width="799" height="598" alt="Screenshot 2025-09-07 201857" src="https://github.com/user-attachments/assets/1c6084a1-461e-4250-896b-d33dc174465f" />
 
 
 ---
 
-## 🆕 Changelog v3.0.0 (2025-08-30)
+## 🆕 Changelog v3.5.0
 ✨ Summary of New Features ✨
 
-- Zoom Functionality:
-A new "View" menu has been added with actions to Zoom In (Ctrl++), Zoom Out (Ctrl+-), and Restore Default Zoom (Ctrl+0).
+- Toolbar Underline: Added an Underline button to the toolbar, complete with a Ctrl+U shortcut and a status update as the cursor moves.
 
-- Context Menu Search:
-When you select text and right-click, a "Search with Google" option now appears, allowing you to instantly search for the highlighted term in your web browser.
-Formatting Toolbar:
+- Encoding Menu: Added an "Encoding" submenu within the "Format" menu. This feature allows you to reopen the active file with a different encoding scheme (for example, if the text appears messy). The active option will be adjusted to the current tab's encoding.
 
-- A new toolbar has been added just below the menu bar with buttons to easily make selected text Bold (Ctrl+B) or Italic (Ctrl+I).
-Clickable Hyperlinks:
-Any text that looks like a web link (e.g., https://www.google.com, www.github.com) is now automatically colored blue and underlined.
-You can simply Ctrl+Click these links to open them directly in your default web browser. The cursor will change to a pointing hand when you hover over a link.
+- Numbering/List: Added a ComboBox to the toolbar to select the list format (bulleted or numbered list). This functionality is also added as a "Numbering" submenu within the "Format" menu.
+
+- Hyperlink Improvements: Improved the link detection logic when Ctrl+Clicking. The previous, less reliable method has been replaced with a new method that detects links based on the text formatting (color and underline) applied by the syntax highlighter, making it much more accurate and functional.
 
 ---
 
