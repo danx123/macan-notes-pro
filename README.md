@@ -1,6 +1,6 @@
 # 📝 Macan Notes Pro
 
-Macan Notes Pro is a modern note-taking app based on PyQt6, designed for a fast, clean, flexible, and professional writing experience.
+Macan Notes Pro is a modern note-taking app based on PySide6, designed for a fast, clean, flexible, and professional writing experience.
 Now available with font customization and syntax highlighting for Python
 
 > "Write smarter. Stay organized." ✨
@@ -20,17 +20,13 @@ Now available with font customization and syntax highlighting for Python
 ---
 
 ## 📸 Screenshot
-<img width="838" height="649" alt="Screenshot 2025-09-29 065519" src="https://github.com/user-attachments/assets/24c55bb5-b211-43cf-b435-97568a04de0b" />
-
-
+<img width="837" height="634" alt="image" src="https://github.com/user-attachments/assets/4315e8f8-a90f-46fc-aad6-692d44058d85" />
 
 ---
 
-## 🆕 Changelog v3.7.0
+## 🆕 Changelog v3.7.1
 ✨ Summary of New Features ✨
-- Add support Export to PDF
-- Add Context Menu "Ask to Gemini"
-
+- Update Framework
 ---
 
 ## 📦 Release Notes
