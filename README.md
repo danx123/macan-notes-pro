@@ -20,13 +20,25 @@ Now available with font customization and syntax highlighting for Python
 ---
 
 ## 📸 Screenshot
-<img width="837" height="634" alt="image" src="https://github.com/user-attachments/assets/4315e8f8-a90f-46fc-aad6-692d44058d85" />
+<img width="862" height="707" alt="Screenshot 2025-10-05 011053" src="https://github.com/user-attachments/assets/a700bb1d-22b0-4d9c-82c0-de870b3a7bb8" />
+<img width="882" height="699" alt="Screenshot 2025-10-05 014935" src="https://github.com/user-attachments/assets/329e9946-690b-4175-a56f-a445ed8d7937" />
+<img width="883" height="702" alt="Screenshot 2025-10-05 015010" src="https://github.com/user-attachments/assets/5eb40f80-bbcc-4fe7-8fed-9bcd172d534d" />
+
+
 
 ---
 
-## 🆕 Changelog v3.7.1
+## 🆕 Changelog v4.0.0
 ✨ Summary of New Features ✨
-- Update Framework
+* Added a Run button to execute the currently opened .py script using the method
+
+* Added dynamic aura:
+- If the opened file is a .txt file, the theme is automatically light/dark
+- If the opened file is a .md file, the theme is automatically soft pink
+- If the opened file is a .py file, the theme is automatically neon blue
+- If the opened file is a .html file, the theme is automatically dark blue
+
+* Added a code snippet button next to the run button and brings up a QDockWidget/side panel with QListView/QListWidget
 ---
 
 ## 📦 Release Notes
