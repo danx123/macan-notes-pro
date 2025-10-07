@@ -20,25 +20,19 @@ Now available with font customization and syntax highlighting for Python
 ---
 
 ## 📸 Screenshot
-<img width="862" height="707" alt="Screenshot 2025-10-05 011053" src="https://github.com/user-attachments/assets/a700bb1d-22b0-4d9c-82c0-de870b3a7bb8" />
-<img width="882" height="699" alt="Screenshot 2025-10-05 014935" src="https://github.com/user-attachments/assets/329e9946-690b-4175-a56f-a445ed8d7937" />
-<img width="883" height="702" alt="Screenshot 2025-10-05 015010" src="https://github.com/user-attachments/assets/5eb40f80-bbcc-4fe7-8fed-9bcd172d534d" />
-
-
+<img width="793" height="703" alt="Screenshot 2025-10-07 203949" src="https://github.com/user-attachments/assets/50bd5261-1b38-4ecb-8939-4d2703bcf78b" />
+<img width="800" height="700" alt="Screenshot 2025-10-07 204102" src="https://github.com/user-attachments/assets/4cae1da8-c6e1-4f52-bea1-775644d63cd8" />
 
 ---
 
-## 🆕 Changelog v4.0.0
+## 🆕 Changelog v4.5.0
 ✨ Summary of New Features ✨
-* Added a Run button to execute the currently opened .py script using the method
-
-* Added dynamic aura:
-- If the opened file is a .txt file, the theme is automatically light/dark
-- If the opened file is a .md file, the theme is automatically soft pink
-- If the opened file is a .py file, the theme is automatically neon blue
-- If the opened file is a .html file, the theme is automatically dark blue
-
-* Added a code snippet button next to the run button and brings up a QDockWidget/side panel with QListView/QListWidget
+Here's a summary of the changes I've made:
+Help Menu: A new "Help" menu has been added, containing a comprehensive, scrollable "Help Content" section and the "About" dialog.
+Themed Dialogs: The "About" dialog and the new "Help Content" dialog are now styled to match the application's selected theme.
+Text Alignment Toolbar: New toolbar buttons for Left, Center, and Right text alignment have been added, with their state updating based on the cursor's position.
+Line Numbering: The "View" menu now includes a "Show Row Numbers" option to toggle a line number bar on the side of the editor, similar to VS Code.
+.docx File Support: You can now open Microsoft Word .docx
 ---
 
 ## 📦 Release Notes
