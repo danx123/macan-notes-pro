@@ -25,14 +25,9 @@ Now available with font customization and syntax highlighting for Python
 
 ---
 
-## 🆕 Changelog v4.5.0
+## 🆕 Changelog v4.5.1
 ✨ Summary of New Features ✨
-Here's a summary of the changes I've made:
-Help Menu: A new "Help" menu has been added, containing a comprehensive, scrollable "Help Content" section and the "About" dialog.
-Themed Dialogs: The "About" dialog and the new "Help Content" dialog are now styled to match the application's selected theme.
-Text Alignment Toolbar: New toolbar buttons for Left, Center, and Right text alignment have been added, with their state updating based on the cursor's position.
-Line Numbering: The "View" menu now includes a "Show Row Numbers" option to toggle a line number bar on the side of the editor, similar to VS Code.
-.docx File Support: You can now open Microsoft Word .docx
+- Update framework
 ---
 
 ## 📦 Release Notes
