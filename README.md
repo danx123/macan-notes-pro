@@ -20,14 +20,20 @@ Now available with font customization and syntax highlighting for Python
 ---
 
 ## 📸 Screenshot
-<img width="793" height="703" alt="Screenshot 2025-10-07 203949" src="https://github.com/user-attachments/assets/50bd5261-1b38-4ecb-8939-4d2703bcf78b" />
-<img width="800" height="700" alt="Screenshot 2025-10-07 204102" src="https://github.com/user-attachments/assets/4cae1da8-c6e1-4f52-bea1-775644d63cd8" />
+<img width="747" height="679" alt="Screenshot 2025-10-19 171645" src="https://github.com/user-attachments/assets/caf42dbd-71e3-4f62-9327-31cb7fe256df" />
+<img width="744" height="678" alt="Screenshot 2025-10-19 171807" src="https://github.com/user-attachments/assets/26a59e11-bc31-4290-8a9c-526ec55b8dbd" />
+<img width="864" height="553" alt="Screenshot 2025-10-19 171740" src="https://github.com/user-attachments/assets/dcbc49bd-7041-4d5d-80d7-1ece0eb68648" />
+
+
+
 
 ---
 
-## 🆕 Changelog v4.5.1
+## 🆕 Changelog v4.5.5
 ✨ Summary of New Features ✨
-- Update framework
+- Added Auto Capitalization
+- Added compare with other file
+- Added Zoom slider (status bar)
 ---
 
 ## 📦 Release Notes
