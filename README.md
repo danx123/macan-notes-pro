@@ -25,9 +25,9 @@ Now available with font customization and syntax highlighting for Python
 
 ---
 
-## 🆕 Changelog v4.6.0
+## 🆕 Changelog v4.7.0
 ✨ Summary of New Features ✨
-- Added Print Preview Support
+- Added new function in help menu section - register format - register .txt, .md, .log format
 ---
 
 ## 📦 Release Notes
