@@ -25,10 +25,24 @@ Now available with font customization and syntax highlighting for Python
 
 ---
 
-## 🆕 Changelog v4.7.0
-✨ Summary of New Features ✨
-- Added new function in help menu section - register format - register .txt, .md, .log format
----
+## 🆕 Changelog v5.0.0
+🚀 New Features
+Added "Paste as Plain Text" Action:
+
+Introduced a new "Paste as Plain Text" feature, accessible from the Edit menu or via the Ctrl+Shift+V shortcut.
+
+This allows users to paste content from the clipboard while stripping all external formatting.
+
+This resolves an issue where content pasted from external sources (like web browsers) would retain its original styling (e.g., black text in a dark theme), ensuring pasted text always respects the application's current theme.
+
+🛠️ Improvements & Fixes
+Enabled Rich Text Formatting Persistence for HTML:
+
+Modified the file I/O logic to provide support for saving and loading rich text formatting (e.g., bold, italics, lists, and text alignment).
+
+Save Logic: The application now serializes the editor's content to HTML when the file extension is .html or .htm. All other formats are saved as plain text as before.
+
+Load Logic: The application now correctly deserializes .html and .htm files, restoring all rich text formatting when a file is opened.
 
 ## 📦 Release Notes
 - **Source Code (this repo):** contains the **initial version/baseline** of Macan Notes Pro.
