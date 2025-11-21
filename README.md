@@ -25,10 +25,8 @@ Now available with font customization and syntax highlighting for Python
 
 ---
 
-## 🆕 Changelog v5.3.0
-- Added Zoom Label (%) Status Bar
-- Fixed Qss Stylesheet Context Menu
-- Fixed Highlight Current Line
+## 🆕 Changelog v5.5.0
+- Update Framewrok
 
 ## 📦 Release Notes
 - **Source Code (this repo):** contains the **initial version/baseline** of Macan Notes Pro.
