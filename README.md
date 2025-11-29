@@ -20,13 +20,14 @@ Now available with font customization and syntax highlighting for Python
 ---
 
 ## 📸 Screenshot
-<img width="745" height="681" alt="Screenshot 2025-10-29 225338" src="https://github.com/user-attachments/assets/0513d995-594d-45c0-8543-0c744b655096" />
+<img width="673" height="668" alt="Screenshot 2025-11-29 121625" src="https://github.com/user-attachments/assets/4d971915-d3b9-47ce-97de-4b00f97bb554" />
+
 <img width="742" height="544" alt="Screenshot 2025-10-29 225400" src="https://github.com/user-attachments/assets/b590bc2b-6117-413c-9106-a459a4f4c3a3" />
 
 ---
 
-## 🆕 Changelog v5.5.0
-- Update Framewrok
+## 🆕 Changelog v5.7.0
+- Added Speech to Text
 
 ## 📦 Release Notes
 - **Source Code (this repo):** contains the **initial version/baseline** of Macan Notes Pro.
