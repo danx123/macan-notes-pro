@@ -26,8 +26,9 @@ Now available with font customization and syntax highlighting for Python
 
 ---
 
-## 🆕 Changelog v5.7.0
-- Added Speech to Text
+## 🆕 Changelog v6.0.0
+- Added Check Update
+- Improve Find Previous Dialog
 
 ## 📦 Release Notes
 - **Source Code (this repo):** contains the **initial version/baseline** of Macan Notes Pro.
