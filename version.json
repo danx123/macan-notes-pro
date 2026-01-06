@@ -1,5 +1,6 @@
 {
-  "latest_version": "6.0.0",
-  "release_notes": "New features: Check for Update added, improved Find dialog.",
+  "latest_version": "6.2.0",
+  "release_notes": "Integrated Microsoft Copilot.",
   "download_url": "https://github.com/danx123/macan-notes-pro/releases"
+
 }
