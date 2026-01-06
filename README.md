@@ -20,15 +20,13 @@ Now available with font customization and syntax highlighting for Python
 ---
 
 ## 📸 Screenshot
-<img width="673" height="668" alt="Screenshot 2025-11-29 121625" src="https://github.com/user-attachments/assets/4d971915-d3b9-47ce-97de-4b00f97bb554" />
+<img width="1120" height="701" alt="Cuplikan layar 2026-01-06 200815" src="https://github.com/user-attachments/assets/c1ec619f-c517-4e4f-80f4-6585115a00b1" />
 
-<img width="742" height="544" alt="Screenshot 2025-10-29 225400" src="https://github.com/user-attachments/assets/b590bc2b-6117-413c-9106-a459a4f4c3a3" />
 
 ---
 
-## 🆕 Changelog v6.0.0
-- Added Check Update
-- Improve Find Previous Dialog
+## 🆕 Changelog v6.2.0
+- Integrated Copilot
 
 ## 📦 Release Notes
 - **Source Code (this repo):** contains the **initial version/baseline** of Macan Notes Pro.
