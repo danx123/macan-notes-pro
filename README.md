@@ -25,8 +25,6 @@ Now available with font customization and syntax highlighting for Python
 
 ---
 
-## 🆕 Changelog v6.2.0
-- Integrated Copilot
 
 ## 📦 Release Notes
 - **Source Code (this repo):** contains the **initial version/baseline** of Macan Notes Pro.
