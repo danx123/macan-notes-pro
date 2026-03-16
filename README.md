@@ -20,8 +20,7 @@ Now available with font customization and syntax highlighting for Python
 ---
 
 ## 📸 Screenshot
-<img width="1120" height="701" alt="Cuplikan layar 2026-01-06 200815" src="https://github.com/user-attachments/assets/c1ec619f-c517-4e4f-80f4-6585115a00b1" />
-
+<img width="1365" height="767" alt="Screenshot 2026-03-17 013305" src="https://github.com/user-attachments/assets/0c086ece-1fe6-45dc-94aa-2637357ba5ca" />
 
 ---
 
